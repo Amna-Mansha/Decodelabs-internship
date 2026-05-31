@@ -1,0 +1,25 @@
+PROJECT TITLE:
+AI Recommendation Logic System
+
+OBJECTIVE:
+To create a recommendation system that suggests items based on user preferences using similarity logic.
+
+TOOLS USED:
+- Python
+
+WORKING:
+1. User enters interests.
+2. System compares interests with item categories.
+3. Match score is calculated.
+4. Recommended items are displayed.
+
+AI CONCEPT:
+Recommendation System
+Pattern Matching
+Similarity Logic
+
+OUTPUT:
+The system recommends the most relevant items according to user interests.
+
+CONCLUSION:
+The project successfully demonstrates a simple recommendation engine using AI recommendation concepts.
